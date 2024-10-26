@@ -11,7 +11,7 @@ public class Square12{
             for (i = 0; i <= N; i++){
                 System.out.print("*");
             }
-            System.out.println();
+    
         } 
 
     }
